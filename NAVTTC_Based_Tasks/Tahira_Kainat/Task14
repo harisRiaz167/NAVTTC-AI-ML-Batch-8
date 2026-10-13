@@ -1,0 +1,9 @@
+Run and examine the provided if-elif-else example using i = 20 and conditions i == 10, i == 15, and i == 20.
+i = 20
+if i == 10:
+    print("i is equal to 10")
+elif i == 15:
+    print("i is equal to 15")
+else:
+    print("i is not equal to 10 or 15")
+    print("i is equal to 20")

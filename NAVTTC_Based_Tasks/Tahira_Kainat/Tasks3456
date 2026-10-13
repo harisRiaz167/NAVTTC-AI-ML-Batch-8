@@ -1,0 +1,23 @@
+Write a Python program to add two numbers (num1 = 1.5 and num2 = 6.3) and display the sum.
+num1 = 1.5
+num2 = 6.3
+sum_result = num1 + num2
+print("The sum is:", sum_result)
+
+Take two numbers as input from the user, convert them to float, add them, and display the sum.
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+sum_result = num1 + num2
+print("The sum is:", sum_result)
+
+Write a Python program to calculate the square root of a number (the example uses num = 8).
+import math
+num = 8
+square_root = math.sqrt(num)
+print(f"The square root of {num} is {square_root}")
+
+Find the square root of a real or complex number using Python's cmath module (the example uses 1+2j).
+import cmath
+complex_num = 1 + 2j
+sqrt_complex = cmath.sqrt(complex_num)
+print(f"The square root of {complex_num} is {sqrt_complex}")

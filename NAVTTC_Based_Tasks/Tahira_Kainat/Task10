@@ -1,0 +1,5 @@
+Take a distance in kilometers from the user and convert it to miles using the conversion factor shown in the PDF (0.621371).
+distance_km = float(input("Enter the distance in kilometers: "))
+conversion_factor = 0.621371
+distance_miles = distance_km * conversion_factor
+print(f"{distance_km} kilometers is equal to {distance_miles:.2f} miles")

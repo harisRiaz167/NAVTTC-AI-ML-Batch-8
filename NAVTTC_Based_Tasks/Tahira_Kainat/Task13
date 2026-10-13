@@ -1,0 +1,11 @@
+Run and examine the provided nested-if example using i = 10 and nested conditions i < 10 and i < 12.
+
+i = 10
+if i < 10:
+    print("i is less than 10")
+    if i < 12:
+        print("i is less than 12")
+    else:
+        print("i is not less than 12")
+else:
+    print("i is not less than 10")

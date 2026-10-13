@@ -1,0 +1,9 @@
+Name,Age,Score,City
+Alice,25.0,88,NY
+Bob,30.0,92,LA
+,22.0,75,NY
+Diana,,not_a_number,SF
+Eve,29.0,81,
+Frank,35.0,,LA
+Grace,28.0,95,SF
+Bob,30.0,92,LA

@@ -1,0 +1,6 @@
+Run and examine the provided if-statement example using i = 10 and the condition i > 15.
+i = 10
+if i > 15:
+    print("i is greater than 15")
+else:
+    print("i is not greater than 15")
